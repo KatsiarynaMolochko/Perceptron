@@ -11,8 +11,8 @@ This project implements a binary Perceptron classifier using Python. It trains a
 - Interactive classification mode
 - Visualization of per-class accuracy
 - Label encoding / decoding
-- Expandable vector representation (bias term included)
-- Clean, modular architecture (`Perceptron`, `Trainer`, `UI`)
+- Vector expansion with integrated threshold
+
 
 ---
 
